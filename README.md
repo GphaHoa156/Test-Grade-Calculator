@@ -1,45 +1,6 @@
 # Test-Grade-Calculator
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Grading System</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        pre {
-            background: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        code {
-            color: #d6336c;
-            background: #f9f2f4;
-            padding: 2px 4px;
-            border-radius: 3px;
-        }
-        ul {
-            margin: 10px 0;
-            padding-left: 20px;
-        }
-        .output {
-            background: #eaf8e8;
-            padding: 10px;
-            border: 1px solid #c3e6cb;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
+
+Auto Grading System<
     <h1>Auto Grading System</h1>
     <p>
         This project provides an automated system to grade student exams based on a provided answer key and a file containing student responses.
